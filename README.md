@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a website**
  
- 🌱 I’m currently learning **Java, Spring, C++**
+ 🌱 I’m currently learning **Angular, Java, C++**
 
 ⚡ Fun fact **The St. Mary's Trumpet Call is played every hour from the tower of St. Mary's Church in Cracow, which stops halfway through the melody. According to the legend, it is in memory of a trumpeter who was hit by a Tatar arrow while warning the city about an invasion**
 
