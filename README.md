@@ -5,7 +5,7 @@
     I'm Mateusz Kierepka!
 </h1>
 
-<h3 align="center">A passionate software developer from Poland</h3>
+<h3 align="center">A passionate software developer and third-year Software Engineering student from Poland</h3>
 
 <br/>
 
@@ -15,9 +15,9 @@
  
  🌱 I’m currently learning *Angular, Java, C++*
 
-⚡ Fun fact: *The St. Mary's Trumpet Call is played every hour from the tower of St. Mary's Church in Cracow, which stops halfway through the melody. According to the legend, it is in memory of a trumpeter who was hit by a Tatar arrow while warning the city about an invasion.*
+⚡ Fun fact: *The St. Mary's Trumpet Call is played every hour from the tower of St. Mary's Church in Cracow, which stops halfway through the melody. According to legend, it is in memory of a trumpeter who was hit by a Tatar arrow while warning the city about an invasion.*
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:mateusz.kierepka03@gmail.com">
@@ -31,9 +31,49 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<br/>
+<div>
+    I am a third-year student of Software Engineering at Politechnika Lubelska. I am currently seeking my first job experience in the IT industry, where I can further develop my skills in Full Stack Web Development, ML Engineering, or AI Analysis. 
+
+    My journey includes hands-on projects, certifications, and workshops that have provided me with a solid theoretical and practical background. As an ambitious individual, I am focused on continuous improvement and thrive in team environments where collaboration, sharing knowledge, and asking insightful questions are valued.
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 Certifications 🏆</h2>
+<br/>
+<ul>
+    <li><strong>System Administration I (RH124)</strong> - Red Hat, February 2025</li>
+    <li><strong>Getting Started with Linux Fundamentals (RH104)</strong> - Red Hat, January 2025</li>
+    <li><strong>Networking Devices and Initial Configuration</strong> - Cisco Networking Academy, November 2024</li>
+    <li><strong>Networking Basics</strong> - Cisco Networking Academy, October 2024</li>
+    <li><strong>Introduction to Internet of Things</strong> - Cisco Networking Academy, October 2024</li>
+    <li><strong>Introduction to Cybersecurity</strong> - Cisco Networking Academy, October 2024</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">💻 Projects 💻</h2>
+<br/>
+<ul>
+    <li><strong>E-commerce platform for language courses</strong> - March 2024</li>
+    <ul>
+        <li><strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS</li>
+        <li>Developed a web-based e-commerce platform for selling language courses</li>
+        <li>Implemented user authentication and registration system</li>
+        <li>Created an admin panel for managing course listings, including adding, editing, and deleting courses</li>
+        <li>Designed an intuitive user interface for browsing available courses and adding them to a shopping cart</li>
+        <li>Integrated basic cart functionalities with the goal of future payment system implementation</li>
+        <li>Focused on building a secure and scalable foundation for future payment and order management features</li>
+    </ul>
+</ul>
+
+<hr/>
+
+<h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -45,6 +85,17 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <br/>
