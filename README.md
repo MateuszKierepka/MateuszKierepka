@@ -36,40 +36,44 @@
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <br/>
 <div>
-    I am a third-year student of Software Engineering at Politechnika Lubelska. I am currently seeking my first job experience in the IT industry, where I can further develop my skills in Full Stack Web Development, ML Engineering, or AI Analysis. 
-
-    My journey includes hands-on projects, certifications, and workshops that have provided me with a solid theoretical and practical background. As an ambitious individual, I am focused on continuous improvement and thrive in team environments where collaboration, sharing knowledge, and asking insightful questions are valued.
+    I am a third-year student of Software Engineering at Politechnika Lubelska. I am currently seeking my first job experience in the IT industry, where I can further develop my skills in Full Stack Web Development, ML Engineering, or AI Analysis.
 </div>
 
-<hr/>
-
-<h2 align="center">🏆 Certifications 🏆</h2>
-<br/>
-<ul>
-    <li><strong>System Administration I (RH124)</strong> - Red Hat, February 2025</li>
-    <li><strong>Getting Started with Linux Fundamentals (RH104)</strong> - Red Hat, January 2025</li>
-    <li><strong>Networking Devices and Initial Configuration</strong> - Cisco Networking Academy, November 2024</li>
-    <li><strong>Networking Basics</strong> - Cisco Networking Academy, October 2024</li>
-    <li><strong>Introduction to Internet of Things</strong> - Cisco Networking Academy, October 2024</li>
-    <li><strong>Introduction to Cybersecurity</strong> - Cisco Networking Academy, October 2024</li>
-</ul>
+<p>
+    My journey includes hands-on projects, certifications, and workshops that have provided me with a solid theoretical and practical background. As an ambitious individual, I am focused on continuous improvement and thrive in team environments where collaboration, sharing knowledge, and asking insightful questions are valued.
+</p>
 
 <hr/>
 
 <h2 align="center">💻 Projects 💻</h2>
 <br/>
+<h3>E-commerce Platform for Language Courses</h3>
 <ul>
-    <li><strong>E-commerce platform for language courses</strong> - March 2024</li>
-    <ul>
-        <li><strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS</li>
-        <li>Developed a web-based e-commerce platform for selling language courses</li>
-        <li>Implemented user authentication and registration system</li>
-        <li>Created an admin panel for managing course listings, including adding, editing, and deleting courses</li>
-        <li>Designed an intuitive user interface for browsing available courses and adding them to a shopping cart</li>
-        <li>Integrated basic cart functionalities with the goal of future payment system implementation</li>
-        <li>Focused on building a secure and scalable foundation for future payment and order management features</li>
-    </ul>
+    <li><strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS</li>
+    <li>Developed a web-based e-commerce platform for selling language courses</li>
+    <li>Implemented user authentication and registration system</li>
+    <li>Created an admin panel for managing course listings, including adding, editing, and deleting courses</li>
+    <li>Designed an intuitive user interface for browsing available courses and adding them to a shopping cart</li>
+    <li>Integrated basic cart functionalities with the goal of future payment system implementation</li>
+    <li>Focused on building a secure and scalable foundation for future payment and order management features</li>
 </ul>
+
+<hr/>
+
+<h2 align="center">🏆 Certifications 🏆</h2>
+<br/>
+<h3>System Administration I (RH124)</h3>
+<p>Organizer: Red Hat, February 2025</p>
+<h3>Getting Started with Linux Fundamentals (RH104)</h3>
+<p>Organizer: Red Hat, January 2025</p>
+<h3>Networking Devices and Initial Configuration</h3>
+<p>Organizer: Cisco Networking Academy, November 2024</p>
+<h3>Networking Basics</h3>
+<p>Organizer: Cisco Networking Academy, October 2024</p>
+<h3>Introduction to Internet of Things</h3>
+<p>Organizer: Cisco Networking Academy, October 2024</p>
+<h3>Introduction to Cybersecurity</h3>
+<p>Organizer: Cisco Networking Academy, October 2024</p>
 
 <hr/>
 
