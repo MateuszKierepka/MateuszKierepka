@@ -49,7 +49,6 @@
 <br/>
 <h3>E-commerce Platform for Language Courses</h3>
 <ul>
-    <li><strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS</li>
     <li>Developed a web-based e-commerce platform for selling language courses</li>
     <li>Implemented user authentication and registration system</li>
     <li>Created an admin panel for managing course listings, including adding, editing, and deleting courses</li>
@@ -57,23 +56,20 @@
     <li>Integrated basic cart functionalities with the goal of future payment system implementation</li>
     <li>Focused on building a secure and scalable foundation for future payment and order management features</li>
 </ul>
+<strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS
 
 <hr/>
 
 <h2 align="center">🏆 Certifications 🏆</h2>
 <br/>
-<h3>System Administration I (RH124)</h3>
-<p>Organizer: Red Hat, February 2025</p>
-<h3>Getting Started with Linux Fundamentals (RH104)</h3>
-<p>Organizer: Red Hat, January 2025</p>
-<h3>Networking Devices and Initial Configuration</h3>
-<p>Organizer: Cisco Networking Academy, November 2024</p>
-<h3>Networking Basics</h3>
-<p>Organizer: Cisco Networking Academy, October 2024</p>
-<h3>Introduction to Internet of Things</h3>
-<p>Organizer: Cisco Networking Academy, October 2024</p>
-<h3>Introduction to Cybersecurity</h3>
-<p>Organizer: Cisco Networking Academy, October 2024</p>
+<ul>
+    <li><strong>System Administration I (RH124)</strong> - Red Hat, February 2025</li>
+    <li><strong>Getting Started with Linux Fundamentals (RH104)</strong> - Red Hat, January 2025</li>
+    <li><strong>Networking Devices and Initial Configuration</strong> - Cisco Networking Academy, November 2024</li>
+    <li><strong>Networking Basics</strong> - Cisco Networking Academy, October 2024</li>
+    <li><strong>Introduction to Internet of Things</strong> - Cisco Networking Academy, October 2024</li>
+    <li><strong>Introduction to Cybersecurity</strong> - Cisco Networking Academy, October 2024</li>
+</ul>
 
 <hr/>
 
