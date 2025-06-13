@@ -59,7 +59,7 @@
 </ul>
 <strong>Tools:</strong> Angular, Express.js, Docker, Ollama
 
-<br/><br/>
+<br/>
 
 <h3 align="center">E-commerce Platform for Language Courses</h3>
 <ul>
