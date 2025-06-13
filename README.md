@@ -49,47 +49,35 @@
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="48%" valign="top">
-        <div align="center">
-          <img src="https://img.shields.io/badge/GymApp-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="GymApp badge" />
-        </div>
-        <h3 align="center">GymApp</h3>
-        <ul align="left">
-          <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
-          <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
-          <li>Supports live workout mode for real-time training tracking</li>
-          <li>Enables users to export their workout history as PDF files</li>
-          <li>Features AI-generated workout plans using the Mistral model via Ollama integration</li>
-          <li>Includes an administrator panel for advanced user management</li>
-          <li>Backend built with a full-featured CRUD and MVC architecture</li>
-        </ul>
-        <div align="left">
-          <strong>Tools:</strong> Angular, Express.js, Docker, Ollama
-        </div>
-      </td>
-      <td width="4%"></td>
-      <td width="48%" valign="top">
-        <div align="center">
-          <img src="https://img.shields.io/badge/Language%20Courses-7952B3?style=for-the-badge&logo=laravel&logoColor=white" alt="Language Courses badge" />
-        </div>
-        <h3 align="center">E-commerce Platform for Language Courses</h3>
-        <ul align="left">
-          <li>Developed a web-based e-commerce platform for selling language courses</li>
-          <li>Implemented user authentication and registration system</li>
-          <li>Created an admin panel for managing course listings, including adding, editing, and deleting courses</li>
-          <li>Designed an intuitive user interface for browsing available courses and adding them to a shopping cart</li>
-          <li>Integrated basic cart functionalities with the goal of future payment system implementation</li>
-          <li>Focused on building a secure and scalable foundation for future payment and order management features</li>
-        </ul>
-        <div align="left">
-          <strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/GymApp-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="GymApp badge" />
 </div>
+<h3 align="center">GymApp</h3>
+<ul>
+  <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
+  <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
+  <li>Supports live workout mode for real-time training tracking</li>
+  <li>Enables users to export their workout history as PDF files</li>
+  <li>Features AI-generated workout plans using the Mistral model via Ollama integration</li>
+  <li>Includes an administrator panel for advanced user management</li>
+  <li>Backend built with a full-featured CRUD and MVC architecture</li>
+</ul>
+<strong>Tools:</strong> Angular, Express.js, Docker, Ollama
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Language%20Courses-7952B3?style=for-the-badge&logo=laravel&logoColor=white" alt="Language Courses badge" />
+</div>
+<h3 align="center">E-commerce Platform for Language Courses</h3>
+<ul>
+  <li>Developed a web-based e-commerce platform for selling language courses</li>
+  <li>Implemented user authentication and registration system</li>
+  <li>Created an admin panel for managing course listings, including adding, editing, and deleting courses</li>
+  <li>Designed an intuitive user interface for browsing available courses and adding them to a shopping cart</li>
+  <li>Integrated basic cart functionalities with the goal of future payment system implementation</li>
+  <li>Focused on building a secure and scalable foundation for future payment and order management features</li>
+</ul>
+<strong>Tools:</strong> Laravel, PHP, MySQL, Bootstrap, HTML, CSS
 
 <hr/>
 
