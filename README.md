@@ -48,9 +48,6 @@
 <h2 align="center">💻 Projects 💻</h2>
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GymApp-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="GymApp badge" />
-</div>
 <h3 align="center">GymApp</h3>
 <ul>
   <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
@@ -65,9 +62,6 @@
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Language%20Courses-7952B3?style=for-the-badge&logo=laravel&logoColor=white" alt="Language Courses badge" />
-</div>
 <h3 align="center">E-commerce Platform for Language Courses</h3>
 <ul>
   <li>Developed a web-based e-commerce platform for selling language courses</li>
