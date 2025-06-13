@@ -47,6 +47,21 @@
 
 <h2 align="center">💻 Projects 💻</h2>
 <br/>
+
+<h3>GymApp</h3>
+<ul>
+    <li>Developed a comprehensive web application for managing workouts, tracking progress</li>
+    <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
+    <li>Supports live workout mode for real-time training tracking</li>
+    <li>Enables users to export their workout history as PDF files</li>
+    <li>Features AI-generated workout plans using the Mistral model via Ollama integration</li>
+    <li>Includes an administrator panel for advanced user management</li>
+    <li>Backend built with a full-featured CRUD and MVC architecture</li>
+</ul>
+<strong>Tools:</strong> Angular, Express.js, Docker, Ollama
+
+<br/>
+
 <h3>E-commerce Platform for Language Courses</h3>
 <ul>
     <li>Developed a web-based e-commerce platform for selling language courses</li>
@@ -94,7 +109,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
