@@ -51,13 +51,13 @@
 <ul>
   <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
   <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
+  <li>Features AI-generated workout plans using the Mistral model via Ollama integration</li>
   <li>Supports live workout mode for real-time training tracking</li>
   <li>Enables users to export their workout history as PDF files</li>
-  <li>Features AI-generated workout plans using the Mistral model via Ollama integration</li>
-  <li>Includes an administrator panel for advanced user management</li>
+  <li>Includes an administrator panel for user management</li>
   <li>Backend built with a full-featured CRUD and MVC architecture</li>
 </ul>
-<strong>Tools:</strong> Angular, Express.js, Docker, Ollama
+<strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
 
 <br/>
 
