@@ -46,7 +46,6 @@
 <hr/>
 
 <h2 align="center">💻 Projects 💻</h2>
-<br/>
 
 <h3 align="center">GymApp</h3>
 <ul>
