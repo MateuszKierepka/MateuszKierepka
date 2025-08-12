@@ -5,15 +5,13 @@
     I'm Mateusz Kierepka!
 </h1>
 
-<h3 align="center">A passionate software developer and third-year Software Engineering student from Poland</h3>
+<h3 align="center">A passionate software developer and fourth-year Software Engineering student from Poland</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on *a website*
- 
- 🌱 I’m currently learning *Angular, Java, C++*
+ 🌱 I’m currently learning *Angular, .Net, Python*
 
 ⚡ Fun fact: *The St. Mary's Trumpet Call is played every hour from the tower of St. Mary's Church in Cracow, which stops halfway through the melody. According to legend, it is in memory of a trumpeter who was hit by a Tatar arrow while warning the city about an invasion.*
 
@@ -36,7 +34,7 @@
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <br/>
 <div>
-    I am a third-year student of Software Engineering at Lublin University of Technology. I am currently seeking my first job experience in the IT industry, where I can further develop my skills in Full Stack Web Development, ML Engineering, or AI Analysis.
+    I am a fourth-year student of Software Engineering at Lublin University of Technology. I am currently seeking my first job experience in the IT industry, where I can further develop my skills in Full Stack Web Development or ML Engineering.
 </div>
 
 <p>
@@ -77,6 +75,8 @@
 <h2 align="center">🏆 Certifications 🏆</h2>
 <br/>
 <ul>
+    <li><strong>Build an app with ASPNET Core and Angular from scratch</strong> - Udemy, August 2025</li>
+    <li><strong>Series of workshops on Artificial Intelligence</strong> - Sollers Consulting, June 2025</li>
     <li><strong>System Administration I (RH124)</strong> - Red Hat, February 2025</li>
     <li><strong>Getting Started with Linux Fundamentals (RH104)</strong> - Red Hat, January 2025</li>
     <li><strong>Networking Devices and Initial Configuration</strong> - Cisco Networking Academy, November 2024</li>
