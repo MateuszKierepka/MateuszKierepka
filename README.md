@@ -75,6 +75,7 @@
 <h2 align="center">🏆 Certifications 🏆</h2>
 <br/>
 <ul>
+    <li><strong>Spring Boot 3, Spring 6 & Hibernate for Beginners</strong> - Udemy, August 2025</li>
     <li><strong>Build an app with ASPNET Core and Angular from scratch</strong> - Udemy, August 2025</li>
     <li><strong>Series of workshops on Artificial Intelligence</strong> - Sollers Consulting, June 2025</li>
     <li><strong>System Administration I (RH124)</strong> - Red Hat, February 2025</li>
@@ -92,6 +93,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
