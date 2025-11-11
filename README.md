@@ -57,8 +57,6 @@
   <li>Established a CI/CD pipeline with GitHub Actions for automated build and deployment processes</li>
 </ul>
 
-<br/>
-
 <h3 align="center">GymApp</h3>
 <strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
 <ul>
@@ -70,8 +68,6 @@
   <li>Includes an administrator panel for user management</li>
   <li>Backend built with a full-featured CRUD and MVC architecture</li>
 </ul>
-
-<br/>
 
 <h3 align="center">Armed Conflicts and Commodity Prices</h3>
 <strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
