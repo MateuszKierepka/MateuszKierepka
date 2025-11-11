@@ -46,6 +46,7 @@
 <h2 align="center">💻 Projects 💻</h2>
 
 <h3 align="center">Kiddify - Family Activity Manager</h3>
+<strong>Tools:</strong> Angular, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
 <ul>
   <li>Co-Delivered a cross-platform activity hub that lets families coordinate kids’ schedules, featuring a Web App (Angular) for parents and a Native Android App (Java) for children</li>
   <li>Co-Developed the backend using a Spring Boot with a PostgreSQL database, ensuring scalability and reliability</li>
@@ -55,11 +56,11 @@
   <li>Ensured secure access for children by implementing two separate login methods: a dynamically generated QR Code and a PIN</li>
   <li>Established a CI/CD pipeline with GitHub Actions for automated build and deployment processes</li>
 </ul>
-<strong>Tools:</strong> Angular, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
 
 <br/>
 
 <h3 align="center">GymApp</h3>
+<strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
 <ul>
   <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
   <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
@@ -69,18 +70,17 @@
   <li>Includes an administrator panel for user management</li>
   <li>Backend built with a full-featured CRUD and MVC architecture</li>
 </ul>
-<strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
 
 <br/>
 
 <h3 align="center">Armed Conflicts and Commodity Prices</h3>
+<strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
 <ul>
   <li>Co-developed a full stack application integrating historical and ongoing armed conflict data with global commodity prices</li>
   <li>Backend implemented in Spring Boot 3.4.6 with PostgreSQL database</li>
   <li>Frontend built in Angular 19</li>
   <li>Automated environment setup using Docker and Docker Compose (frontend, backend, database, NGINX reverse proxy)</li>
 </ul>
-<strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
 
 <hr/>
 
