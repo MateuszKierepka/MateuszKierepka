@@ -47,6 +47,7 @@
 
 <h3 align="center">Kiddify - Family Activity Manager</h3>
 <strong>Tools:</strong> Angular, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
+<br/>
 <ul>
   <li>Co-Delivered a cross-platform activity hub that lets families coordinate kids’ schedules, featuring a Web App (Angular) for parents and a Native Android App (Java) for children</li>
   <li>Co-Developed the backend using a Spring Boot with a PostgreSQL database, ensuring scalability and reliability</li>
@@ -61,6 +62,7 @@
 
 <h3 align="center">GymApp</h3>
 <strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
+<br/>
 <ul>
   <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
   <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
@@ -75,6 +77,7 @@
 
 <h3 align="center">Armed Conflicts and Commodity Prices</h3>
 <strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
+<br/>
 <ul>
   <li>Co-developed a full stack application integrating historical and ongoing armed conflict data with global commodity prices</li>
   <li>Backend implemented in Spring Boot 3.4.6 with PostgreSQL database</li>
