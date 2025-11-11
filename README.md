@@ -45,7 +45,7 @@
 
 <h2 align="center">💻 Projects 💻</h2>
 
-<h3 align="center">Kiddify - Family Activity Manager</h3>
+<h3>Kiddify - Family Activity Manager</h3>
 <strong>Tools:</strong> Angular, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
 <ul>
   <li>Co-Delivered a cross-platform activity hub that lets families coordinate kids’ schedules, featuring a Web App (Angular) for parents and a Native Android App (Java) for children</li>
@@ -57,7 +57,7 @@
   <li>Established a CI/CD pipeline with GitHub Actions for automated build and deployment processes</li>
 </ul>
 
-<h3 align="center">GymApp</h3>
+<h3>GymApp</h3>
 <strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
 <ul>
   <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
@@ -69,7 +69,7 @@
   <li>Backend built with a full-featured CRUD and MVC architecture</li>
 </ul>
 
-<h3 align="center">Armed Conflicts and Commodity Prices</h3>
+<h3>Armed Conflicts and Commodity Prices</h3>
 <strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
 <ul>
   <li>Co-developed a full stack application integrating historical and ongoing armed conflict data with global commodity prices</li>
