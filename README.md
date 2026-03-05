@@ -5,13 +5,13 @@
     I'm Mateusz Kierepka!
 </h1>
 
-<h3 align="center">A passionate software developer and fourth-year Software Engineering student from Poland</h3>
+<h3 align="center">A passionate Full Stack Developer and Computer Science Master's student at Cracow University of Technology</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning: *Angular, Spring Boot, .NET*
+ 🌱 I’m currently learning: *Angular, Spring Boot, Next.js*
 
 ⚡ Fun fact: *The St. Mary's Trumpet Call is played every hour from the tower of St. Mary's Church in Cracow, which stops halfway through the melody. According to legend, it is in memory of a trumpeter who was hit by a Tatar arrow while warning the city about an invasion.*
 
@@ -33,48 +33,53 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <div>
-    I am a fourth-year student of Software Engineering at Lublin University of Technology. I am currently seeking my first job experience in the IT industry, where I can develop my skills in Full Stack Web Development.
+    I am a Graduate Software Engineer from Lublin University of Technology, currently pursuing a Master's degree in Computer Science (Cybersecurity specialization) at Cracow University of Technology. My primary focus is on developing practical skills in Full Stack Web Development through academic and personal projects using Spring Boot and Angular/Next.js. 
 </div>
 
 <p>
-    My journey includes hands-on projects, certifications, and workshops that have provided me with a solid theoretical and practical background. As an ambitious individual, I am focused on continuous improvement and thrive in team environments where collaboration, sharing knowledge, and asking insightful questions are valued.
+    I am a detail-oriented developer committed to writing clean, maintainable code following SOLID principles. My journey includes hands-on projects, certifications, and workshops that have provided me with a solid theoretical and practical background. I cooperate effectively, share my knowledge, and ask the right questions to understand tasks and expectations. I am now looking for my first professional role in the full stack development industry to apply my technical background in a commercial environment.
 </p>
 
 <hr/>
 
+<h2 align="center">🎓 Education 🎓</h2>
+<ul>
+<li><strong>Cracow University of Technology</strong>strong> (February 2026 - Present) — Computer Science | Specialization: Cybersecurity | Master's Degree</h3></li>
+<li><strong>Lublin University of Technology</strong>strong> (October 2022 - January 2026) — Computer Science | Specialization: Software Engineering | Engineer</h3></li>
+</ul>
+
 <h2 align="center">💻 Projects 💻</h2>
 
 <h3>Kiddify - Family Activity Manager</h3>
-<strong>Tools:</strong> Angular, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
+<strong>Tools:</strong> Angular, Tailwind CSS, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
 <ul>
-  <li>Co-Delivered a cross-platform activity hub that lets families coordinate kids’ schedules, featuring a Web App (Angular) for parents and a Native Android App (Java) for children</li>
-  <li>Co-Developed the backend using a Spring Boot with a PostgreSQL database, ensuring scalability and reliability</li>
-  <li>Implemented advanced security features, including JWT authentication and BCrypt hashing for passwords</li>
-  <li>Enabled real-time communication between parents and children using Websockets for instant updates</li>
+  <li>Implemented a cross-platform activity hub featuring a Web App (Angular) for parents and a Native Android App (Java) for children</li>
+  <li>Built RESTful APIs with Spring Boot, using Spring Data JPA and Hibernate for ORM, with a PostgreSQL database</li>
+  <li>Implemented JWT-based authentication and BCrypt password hashing for secure access control</li>
+  <li>Enabled real-time parent-child communication using Websockets for instant updates</li>
   <li>Managed file storage for the shared family gallery using MinIO Object Storage, reducing database load</li>
-  <li>Ensured secure access for children by implementing two separate login methods: a dynamically generated QR Code and a PIN</li>
+  <li>Implemented secure child login via dynamically generated QR Codes and PIN-based authentication</li>
   <li>Established a CI/CD pipeline with GitHub Actions for automated build and deployment processes</li>
+  <li>Wrote unit tests using JUnit to ensure code reliability</li>
 </ul>
 <br/>
 <h3>GymApp</h3>
 <strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
 <ul>
-  <li>Developed a comprehensive web application for managing workouts and tracking progress</li>
-  <li>Implements robust user authentication with JWT authorization and password reset functionality</li>
-  <li>Features AI-generated workout plans using the Mistral model via Ollama integration</li>
-  <li>Supports live workout mode for real-time training tracking</li>
-  <li>Enables users to export their workout history as PDF files</li>
-  <li>Includes an administrator panel for user management</li>
-  <li>Backend built with a full-featured CRUD and MVC architecture</li>
+  <li>Developed a full stack web application for managing workouts and tracking progress</li>
+  <li>Implemented user authentication with JWT authorization and OAuth 2.0</li>
+  <li>Integrated AI-generated workout plans using the Mistral model via Ollama</li>
+  <li>Built live workout mode for real-time training tracking and PDF export of workout plan</li>
+  <li>Designed an administrator panel for user management; backend follows CRUD and MVC architecture</li>
 </ul>
 <br/>
 <h3>Armed Conflicts and Commodity Prices</h3>
 <strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
 <ul>
   <li>Co-developed a full stack application integrating historical and ongoing armed conflict data with global commodity prices</li>
-  <li>Backend implemented in Spring Boot 3.4.6 with PostgreSQL database</li>
-  <li>Frontend built in Angular 19</li>
-  <li>Automated environment setup using Docker and Docker Compose (frontend, backend, database, NGINX reverse proxy)</li>
+  <li>Built the backend REST API with Spring Boot 3.4.6, Spring Data JPA and PostgreSQL database</li>
+  <li>Developed the frontend in Angular 19 with responsive data visualizations</li>
+  <li>Automated environment setup using Docker Compose (frontend, backend, database, NGINX reverse proxy)</li>
 </ul>
 
 <hr/>
@@ -96,16 +101,18 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff" />
-    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 <br/>
