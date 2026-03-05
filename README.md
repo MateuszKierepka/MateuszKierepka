@@ -44,9 +44,11 @@
 
 <h2 align="center">🎓 Education 🎓</h2>
 <ul>
-<li><strong>Cracow University of Technology</strong>strong> (February 2026 - Present) — Computer Science | Specialization: Cybersecurity | Master's Degree</h3></li>
-<li><strong>Lublin University of Technology</strong>strong> (October 2022 - January 2026) — Computer Science | Specialization: Software Engineering | Engineer</h3></li>
+<li><strong>Cracow University of Technology</strong> (February 2026 - Present) — Computer Science | Specialization: Cybersecurity | Master's Degree</li>
+<li><strong>Lublin University of Technology</strong> (October 2022 - January 2026) — Computer Science | Specialization: Software Engineering | Engineer</li>
 </ul>
+
+<hr/>
 
 <h2 align="center">💻 Projects 💻</h2>
 
