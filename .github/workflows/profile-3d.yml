@@ -1,0 +1,33 @@
+name: Generate 3D contribution stats
+
+on:
+  schedule:
+    - cron: "43 3 * * *" # every day at 03:43 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          # The default token counts public activity. To also count private repositories,
+          # create a fine-grained PAT, save it as a repository secret and use it here instead.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git commit -m "chore: update 3D contribution stats"; then
+            git push
+          fi

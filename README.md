@@ -1,142 +1,166 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MateuszKierepka.MateuszKierepka" />
-
-<h1 align="center">
-    Hi There! 👋  
-    I'm Mateusz Kierepka!
-</h1>
-
-<h3 align="center">A passionate Full Stack Developer and Computer Science Master's student at Cracow University of Technology</h3>
-
-<br/>
-
-<div align="center">
- 
- 🌱 I’m currently learning: *Angular, Spring Boot, Next.js*
-
-⚡ Fun fact: *The St. Mary's Trumpet Call is played every hour from the tower of St. Mary's Church in Cracow, which stops halfway through the melody. According to legend, it is in memory of a trumpeter who was hit by a Tatar arrow while warning the city about an invasion.*
-
-</div>
- 
-<div align="center"> 
-  <a href="mailto:mateusz.kierepka03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateusz-kierepka03" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.facebook.com/mateusz.kierepka.90" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
-<div>
-    I am a Graduate Software Engineer from Lublin University of Technology, currently pursuing a Master's degree in Computer Science (Cybersecurity specialization) at Cracow University of Technology. My primary focus is on developing practical skills in Full Stack Web Development through academic and personal projects using Spring Boot and Angular/Next.js. 
-</div>
-
-<p>
-    I am a detail-oriented developer committed to writing clean, maintainable code following SOLID principles. My journey includes hands-on projects, certifications, and workshops that have provided me with a solid theoretical and practical background. I cooperate effectively, share my knowledge, and ask the right questions to understand tasks and expectations. I am now looking for my first professional role in the full stack development industry to apply my technical background in a commercial environment.
+<p align="center">
+  <img src="./assets/banner.svg" alt="Mateusz Kierepka - Junior Java Developer @ BBH" width="100%" />
 </p>
 
-<hr/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateusz-kierepka03" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mateusz.kierepka03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Gmail" />
+  </a>
+</p>
 
-<h2 align="center">🎓 Education 🎓</h2>
-<ul>
-<li><strong>Cracow University of Technology</strong> (February 2026 - Present) — Computer Science | Specialization: Cybersecurity | Master's Degree</li>
-<li><strong>Lublin University of Technology</strong> (October 2022 - January 2026) — Computer Science | Specialization: Software Engineering | Engineer</li>
-</ul>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<hr/>
+```java
+public class MateuszKierepka {
 
-<h2 align="center">💻 Projects 💻</h2>
+    String role     = "Junior Java Developer @ Brown Brothers Harriman";
+    String location = "Kraków, Poland";
 
-<h3>Kiddify - Family Activity Manager</h3>
-<strong>Tools:</strong> Angular, Tailwind CSS, Spring Boot, Java (Android), PostgreSQL, Docker, GitHub Actions, MinIO, Terraform, Kubernetes, Azure
-<ul>
-  <li>Implemented a cross-platform activity hub featuring a Web App (Angular) for parents and a Native Android App (Java) for children</li>
-  <li>Built RESTful APIs with Spring Boot, using Spring Data JPA and Hibernate for ORM, with a PostgreSQL database</li>
-  <li>Implemented JWT-based authentication and BCrypt password hashing for secure access control</li>
-  <li>Enabled real-time parent-child communication using Websockets for instant updates</li>
-  <li>Managed file storage for the shared family gallery using MinIO Object Storage, reducing database load</li>
-  <li>Implemented secure child login via dynamically generated QR Codes and PIN-based authentication</li>
-  <li>Established a CI/CD pipeline with GitHub Actions for automated build and deployment processes</li>
-  <li>Wrote unit tests using JUnit to ensure code reliability</li>
-</ul>
-<br/>
-<h3>GymApp</h3>
-<strong>Tools:</strong> Angular, Express.js, MongoDB, Docker, Ollama
-<ul>
-  <li>Developed a full stack web application for managing workouts and tracking progress</li>
-  <li>Implemented user authentication with JWT authorization and OAuth 2.0</li>
-  <li>Integrated AI-generated workout plans using the Mistral model via Ollama</li>
-  <li>Built live workout mode for real-time training tracking and PDF export of workout plan</li>
-  <li>Designed an administrator panel for user management; backend follows CRUD and MVC architecture</li>
-</ul>
-<br/>
-<h3>Armed Conflicts and Commodity Prices</h3>
-<strong>Tools:</strong> Spring Boot, Angular, PostgreSQL, Docker
-<ul>
-  <li>Co-developed a full stack application integrating historical and ongoing armed conflict data with global commodity prices</li>
-  <li>Built the backend REST API with Spring Boot 3.4.6, Spring Data JPA and PostgreSQL database</li>
-  <li>Developed the frontend in Angular 19 with responsive data visualizations</li>
-  <li>Automated environment setup using Docker Compose (frontend, backend, database, NGINX reverse proxy)</li>
-</ul>
+    String[] education = {
+        "MSc CS, Cybersecurity @ Cracow University of Technology (2026 - now)",
+        "BEng CS, Software Engineering @ Lublin University of Technology (2022 - 2026)"
+    };
 
-<hr/>
+    String[] focus = {
+        "Backend in Java & Spring Boot",
+        "Full stack web apps (Next.js, Angular)",
+        "Security",
+        "AI agents"
+    };
 
-<h2 align="center">🏆 Certifications 🏆</h2>
-<br/>
-<ul>
-    <li><strong>Spring Boot 3, Spring 6 & Hibernate for Beginners</strong> - Udemy, August 2025</li>
-    <li><strong>Build an app with ASPNET Core and Angular from scratch</strong> - Udemy, August 2025</li>
-    <li><strong>Series of workshops on Artificial Intelligence</strong> - Sollers Consulting, from April to June 2025</li>
-    <li><strong>System Administration I (RH124)</strong> - Red Hat, February 2025</li>
-    <li><strong>Getting Started with Linux Fundamentals (RH104)</strong> - Red Hat, January 2025</li>
-</ul>
+    String achievement = "🥉 3rd place @ HackYeah 2026, Defence category";
+    String approach    = "Clean, tested and maintainable code";
+}
+```
 
-<hr/>
+<h2 align="center">💼 Experience</h2>
 
-<h2 align="center">⚒️ Skills ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+<table>
+  <tr>
+    <td width="1000">
+      🏦 <b><a href="https://www.bbh.com">Brown Brothers Harriman</a></b> · Kraków, Poland · Hybrid<br/>
+      <br/>
+      <b>Junior Java Developer</b> · Full-time · <i>Sep 2026 - Present</i><br/>
+      <b>Java Developer Intern</b> · Internship · <i>Apr 2026 - Sep 2026</i><br/>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,gradle,jenkins,openshift,bash&theme=dark" height="36" alt="Java, Spring Boot, Gradle, Jenkins, OpenShift, Bash" /><br/>
+      <sub>Java 17/21 · Spring Boot 3.x/4.x · Gradle · Jenkins (Jenkinsfile pipelines) · OpenShift · Bash</sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
-<hr/>
+<h2 align="center">🔭 Currently Working On</h2>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MateuszKierepka&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MateuszKierepka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszKierepka&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
+- 🏋️ **TrainMe** - building a booking platform for personal trainers and their clients
+- 🛡️ **CertCordon** - extending our HackYeah 2026 project with the team
+- 🤖 **AI engineering** - learning how to work with AI agents and how to design agent-based systems
 
-<br/>
+<h2 align="center">🚀 Projects</h2>
 
-<hr/>
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ CertCordon</h3>
+      <b>🥉 3rd place at HackYeah 2026 (Defence category)</b> · built in a team of 5<br/>
+      A cybersecurity platform that detects phishing lookalike domains and blocks them before they reach users.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=go,py,fastapi,react,ts,postgres,docker&theme=dark" height="36" alt="Go, Python, FastAPI, React, TypeScript, PostgreSQL, Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ TrainMe</h3>
+      A platform that connects personal trainers with clients: trainers publish their availability, clients find a trainer and book a session.
+      <ul>
+        <li>Clients search trainers by city, gym, specialization, price and availability, and save their favourites</li>
+        <li>Trainers manage their schedule, accept or decline bookings and see today's trainings and income on a dashboard</li>
+        <li>Built-in chat between clients and trainers, plus calendar export to Google Calendar or Outlook</li>
+        <li>Trusted reviews: only clients who completed a training can rate a trainer</li>
+        <li>Admin panel for user management, review moderation and support tickets; Polish and English versions</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind,postgres,docker&perline=8&theme=dark" height="32" alt="Java, Spring Boot, Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 BuyMePls</h3>
+      A local assistant for car auctions (IAAI): it collects the listings you browse, scores them and ranks the best offers.
+      <ul>
+        <li>Chrome extension (Manifest V3) that collects listing data while you browse</li>
+        <li>FastAPI + SQLAlchemy backend with explainable, rule-based scoring</li>
+        <li>Optional local vision LLM (Ollama, Qwen3-VL) that adds a summary and its own rating, running on your own GPU with no cloud</li>
+        <li>React + TypeScript dashboard with the offer ranking</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,react,ts,vite,docker&perline=8&theme=dark" height="32" alt="Python, FastAPI, SQLite, React, TypeScript, Vite, Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍👩‍👧 <a href="https://github.com/MateuszKierepka/kiddify">Kiddify</a></h3>
+      A family activity hub: a web app for parents (Angular) and a native Android app for children (Java).
+      <ul>
+        <li>REST API in Spring Boot with Spring Data JPA and PostgreSQL</li>
+        <li>JWT authentication with BCrypt password hashing</li>
+        <li>Real-time parent-child updates over WebSockets</li>
+        <li>Child login with dynamically generated QR codes and a PIN</li>
+        <li>Family gallery on MinIO object storage, CI/CD with GitHub Actions, unit tests in JUnit</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=angular,spring,java,androidstudio,postgres,tailwind,docker&perline=8&theme=dark" height="32" alt="Angular, Spring Boot, Java, Android, PostgreSQL, Tailwind CSS, Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 <a href="https://github.com/MateuszKierepka/GymApp">GymApp</a></h3>
+      A full stack app for planning workouts and tracking progress.
+      <ul>
+        <li>Authentication with JWT and OAuth 2.0</li>
+        <li>AI-generated workout plans (Mistral via Ollama)</li>
+        <li>Live workout mode and PDF export of workout plans</li>
+        <li>Admin panel for user management; backend in CRUD / MVC architecture</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,docker&perline=8&theme=dark" height="32" alt="Angular, Node.js, Express.js, MongoDB, Docker" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-    Thanks for visiting! ✌️  
-    Shoot me a message on LinkedIn!  
-    I'm always down to collaborate 🙂
-</h3>
+<h2 align="center">⚒️ Tech Stack</h2>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,py,fastapi&theme=dark" height="40" alt="Java, Spring Boot, Gradle, Maven, Python, FastAPI" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,nextjs,react,ts,js,tailwind&theme=dark" height="40" alt="Angular, Next.js, React, TypeScript, JavaScript, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,openshift,git,linux,bash,postman,idea&theme=dark" height="40" alt="Docker, Jenkins, OpenShift, Git, Linux, Bash, Postman, IntelliJ IDEA" /></td>
+  </tr>
+</table>
+
+<h2 align="center">⚡ GitHub Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateuszKierepka/MateuszKierepka/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateuszKierepka/MateuszKierepka/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/MateuszKierepka/MateuszKierepka/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateuszKierepka/MateuszKierepka/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateuszKierepka/MateuszKierepka/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/MateuszKierepka/MateuszKierepka/output/github-snake-dark.svg" alt="Snake eating my contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <code>$ exit</code><br/>
+  Thanks for visiting! 👋 Let's connect on <a href="https://www.linkedin.com/in/mateusz-kierepka03">LinkedIn</a>.
+</p>
